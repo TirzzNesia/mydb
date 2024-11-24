@@ -39,7 +39,7 @@
 
 <p align="left">
   <a aria-label="Zexo/Tirzz Number WhatsApp" href="https://wa.me/628975919600" target="_blank">
-    <img alt="whatsapp" src="https://img.shields.io/badge/WA GROUP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+    <img alt="whatsapp" src="https://img.shields.io/badge/MY NUMBER-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 
 
